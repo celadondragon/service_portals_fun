@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>Portals</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Portals</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-29 05:19:57</sys_created_on>
+        <sys_id>16fddd4e83202210f2d4a6d0deaad32c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portals</sys_name>
+        <sys_package display_value="Service Portal Fundamentals" source="1e8cdd4a83202210f2d4a6d0deaad3c0">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Fundamentals">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_scope>
+        <sys_update_name>sys_alias_16fddd4e83202210f2d4a6d0deaad32c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-29 05:19:57</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

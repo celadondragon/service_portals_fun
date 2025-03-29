@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>ServiceNow application created as part of the 'Service Portal Fundamentals On Demand' course on Now Learning</description>
+        <device_type>browser</device_type>
+        <hint>ServiceNow application created as part of the 'Service Portal Fundamentals On Demand' course on Now Learning</hint>
+        <name/>
+        <order/>
+        <roles>portal_analytics_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-29 05:17:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c6d190683202210f2d4a6d0deaad348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Portal Fundamentals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Service Portal Fundamentals" source="1e8cdd4a83202210f2d4a6d0deaad3c0">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Fundamentals">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_scope>
+        <sys_update_name>sys_app_application_8c6d190683202210f2d4a6d0deaad348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-29 05:17:12</sys_updated_on>
+        <title>Service Portal Fundamentals</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
