@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>/* CLOUD DIMENSIONS OFFICIAL COLORS */&#13;
+$cloud-Primary: #2d80c3;&#13;
+$cloud-Secondary: #ebf2f4;&#13;
+$cloud-CloudWhite: #ece5de;&#13;
+$cloud-CloudBlack: #323232;&#13;
+&#13;
+/* ELEMENT SPECIFIC CSS */&#13;
+$sp-tagline-color:        $cloud-CloudWhite !default;&#13;
+$navbar-inverse-bg:     #000000 !default;&#13;
+$navbar-inverse-link-color: $cloud-CloudWhite !default;&#13;
+$navbar-inverse-link-hover-color: $cloud-Primary !default;&#13;
+$body-bg: $cloud-Secondary !default;</css_variables>
+        <footer/>
+        <footer_fixed>false</footer_fixed>
+        <header display_value="Employee Center Header">d0009941eb103010ed7966d6475228c1</header>
+        <name>Cloud Dimensions</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-29 05:30:56</sys_created_on>
+        <sys_id>ac302d0283602210f2d4a6d0deaad3e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Dimensions</sys_name>
+        <sys_package display_value="Service Portal Fundamentals" source="1e8cdd4a83202210f2d4a6d0deaad3c0">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Fundamentals">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_scope>
+        <sys_update_name>sp_theme_ac302d0283602210f2d4a6d0deaad3e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-29 05:30:56</sys_updated_on>
+        <turn_off_scss_compilation>false</turn_off_scss_compilation>
+    </sp_theme>
+</record_update>
