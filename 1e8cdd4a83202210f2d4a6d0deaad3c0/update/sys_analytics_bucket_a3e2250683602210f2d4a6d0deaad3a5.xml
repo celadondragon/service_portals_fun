@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="web">6496ef61c7001010393d265c95c260b9</analytics_channel>
+        <application_name>Cloud Dimensions</application_name>
+        <bucket_document_id>b8a2a90283602210f2d4a6d0deaad383</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_metadata_customer_override/>
+        <bucket_table_name>sp_portal</bucket_table_name>
+        <bucket_type>service_portal</bucket_type>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>global.sp_portal.b8a2a90283602210f2d4a6d0deaad383</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-29 05:41:28</sys_created_on>
+        <sys_id>a3e2250683602210f2d4a6d0deaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Dimensions</sys_name>
+        <sys_package display_value="Service Portal Fundamentals" source="1e8cdd4a83202210f2d4a6d0deaad3c0">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Fundamentals">1e8cdd4a83202210f2d4a6d0deaad3c0</sys_scope>
+        <sys_update_name>sys_analytics_bucket_a3e2250683602210f2d4a6d0deaad3a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-29 05:41:28</sys_updated_on>
+    </sys_analytics_bucket>
+</record_update>
